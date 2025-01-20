@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div id='mydiv'>
+      <h1 id='title'>Temperature Converter</h1>
     <div id='names'>
       <h1>Celsius</h1>
       <h1>Fahrenheit</h1>
